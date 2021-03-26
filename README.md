@@ -3,3 +3,5 @@
 ### It involved concepts of Image Processing, Word Embeddings, GAN modelling. It had a BLEU score as its evaluation metric.
 Trained on 8kFlickr dataset.
 Coded using keras with tensorflow backend. ResNet50 model is used to extract features from the images.
+
+Kaggle: https://www.kaggle.com/rishabhchaurasia7/image-captioning-on-flickr8k-dataset
